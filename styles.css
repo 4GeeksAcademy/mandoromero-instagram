@@ -1,0 +1,36 @@
+.instagram-post {
+    border: 1px solid #dbdbdb;
+    max-width: 500px;
+    margin: auto;
+    background: #fff;
+}
+* {
+    border: red dashed 2px;
+}
+.instagram-post {
+    border: 1px solid #dbdbdb;
+    max-width: 500px;
+    margin: 20px auto;
+    background: #fff;
+}
+.header {
+    display: flex;
+}
+.images {
+    display:flex;
+}
+.logo {
+    padding: 8px 8px 8px 8px;
+}
+.Three-dots {
+    margin-left: auto;
+    padding: 8px 8px 8px 8px;
+}
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.image-4 {
+   margin-left: auto;
+}
